@@ -2,6 +2,7 @@
   <library name="gson-2.6.2">
     <CLASSES>
       <root url="jar://$USER_HOME$/Downloads/Frameworks/gson-2.6.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Frameworks/bcprov-jdk15on-159.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
